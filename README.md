@@ -1,4 +1,4 @@
-Use old phones for using this ROM 
+Use old phones/tables for using this ROM (Car Dashboard)
 Use cases
 1) Car OS like AOSP ROM for phones(Modified launcher3), Old phones to be mounted in cars without display
 2) Music
